@@ -1,6 +1,6 @@
 <?php 
 
-namespace rakesh/pick;
+namespace rakesh/pck;
 
 class Index
 {
