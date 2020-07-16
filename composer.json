@@ -1,0 +1,11 @@
+{
+    "name": "rakesh/pick",
+    "description": "hello world",
+    "authors": [
+        {
+            "name": "rakesh",
+            "email": "draceshh@gmail.com"
+        }
+    ],
+    "require": {}
+}
